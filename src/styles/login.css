@@ -1,0 +1,13 @@
+     .login-container {
+      padding: 10px;
+      min-width: 500px
+    }
+  
+    .login-container form {
+      margin: 0 auto;
+      max-width: 200px;
+    }
+
+    .login-container form div.form-group{
+      margin-bottom: 10px;
+    }
